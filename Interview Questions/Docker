@@ -1,0 +1,7 @@
+What is docker default network?
+By default containers will be able to communicate with each other or not? If not what you have to do?
+When container crashes the data will be lost or not?
+How do you persist data in docker?
+What are the types of mounting in Docker?
+Explain different fields of Dockerfile?
+What are the best practices to build a smaller image in docker?
