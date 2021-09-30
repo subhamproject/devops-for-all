@@ -1,1 +1,47 @@
-Explain Storageclass, stateful/stateless? Did you implement any of this in realtime. Share an example?
+* How to Determining the Root Device Type of Your Instance?
+* How to show/hide Instance Attributes columns, your key tags?
+* How to change the Root Device Volume to Persist?
+* How do I recover access to my EC2 instances if I've lost my SSH key pair?
+* How can I use user data to replace a lost SSH key pair after the initial launch of my Amazon EC2 instance?
+* How to run commands/scripts on Your Linux Instance at Launch?
+* How to change system shutdown behaviour?
+* What is the difference between stop and terminate EC2 instance?
+* If I stop an EC2 instance, will Amazon still charge stopped instance?
+* why I'm still receiving charges for Amazon EBS volumes & EIP even after All my Amazon EC2 instances are stopped. How can I stop charges accruing on my account for instances I'm not using?
+* What is the difference between a spot instance and on-demand instance?
+* What is the diff b/w instance store volume and EBS volume?
+* Does AWS have the option for vertical auto scaling of EC2 instance? if yes how?
+* What is the diff b/w vertical scaling and Horizontal Scaling?
+* Is it possible to scale an Amazon Ec2 instances vertically? How?
+* How does Amazon EC2 AutoScaling work?
+* What are the components of Amazon VPC?
+* What is an endpoint? What are the different types of VPC endpoints available on Amazon VPC?
+* What is the difference between Internet Gateway & NAT Gateway?
+* Describe public subnet & private subnet?
+* What is the difference between an Instance, AMI and Snapshots in AWS?
+* What is stateful filtering & stateless filtering in VPC?
+* Describe s3 storage classes
+* What is the diff b/w EBS & s3?
+* How many types of route tables are there for routing your subnet traffic?
+* For using amazon internet gateway, you need to pay additional charges?
+* How do you connect vpc to the internet?
+* How do you connect a vpc to your corporate data center?
+* What is the diff b/w Egress-only Internet gateway and Internet Gateway?
+* To connect the instances in private subnet to Internet, what networking component is used for the VPC?
+* Which networking component is used to connect privately with an instance in a VPC to other instances in other AWS accounts VPC?
+* Can we modify or change the VPC address range after creating it?
+* What port range you should specify to allow inbound RDP & SSH traffic in security group?
+* Can we attach a network interface in one VPC to an instance in another VPC?
+* Can a subnet span across multiple availability zones?
+* Can a VPC span across multiple regions?
+* Can we done VPC peering b/w two VPCs which having same address block?
+* How to share storage across multiple EC2 instances?
+* What's the use of running Firewalld alongside EC2 security groups on instances?
+* Which hypervisor does AWS use for running EC2 instances?
+* Every time when I stop my EC2 instance, it terminates automatically and additionally a new
+instance is created. Why is this happening?
+* When creating AMI from running EC2 instance, can I terminate the EC2 instance before complete the AMI creation process?
+* Does load balancer stop sending traffic to target (ec2 instance) if I reboot the (target) EC2 instance?
+* What are the general possible connection issues one might face while connecting to your EC2 instance?
+* How can I prevent my EBS volumes from being deleted when I terminate my EC2 instances?
+* Explain Storageclass, stateful/stateless? Did you implement any of this in realtime. Share an example?
