@@ -1,0 +1,7 @@
+What is statefulsets in Kubernetes?
+What are the default pods that come up as Daemonsets while kubernetes setup?
+What is service in kubernetes and their types?
+Difference between service and ingress in kubernetes?
+How a load balancer knows which pods to direct traffic to?
+How do you implement security in Kubernetes?
+How do you integrate on-premises kubernetes with Cloud managed services?
