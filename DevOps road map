@@ -1,0 +1,59 @@
+Guys let me give list of topics to be covered for an interview for each tools for Devops(You are expected to know this to clear any Devops interview)
+
+AWS
+----------
+ec2,security group,vpc,nat,subnet,autoscaling,network load balancer, application loadbalancer
+s3 bucket,iam,roles,policies,users,cloudwatch,cloudtrail,vpc peering,instance roles,rds
+
+
+Jenkins
+-----------
+jenkins custom port,jenksfile,jenkins backup , freestyle job,schedule job,pipeline job,multibranch pipeline
+jenkins plugins,jenkins master slave architecture
+
+
+Docker
+----------
+dockerfile , dockercompose , docker network types, docker volumes types, docker RUN,CMD,ENTRYPYPOINT ...so on
+docker config ,docker multistage build, docker inspect, docker run ... so on
+
+
+
+Git
+---------------------
+
+git clone , git rebase, git merge, git reset, git revert, git cherry-pick , git push , git fetch , resolving git conflict
+
+
+Ansible
+-------------------
+ansible roles, ansible playbook, ansible valut, ansible import and include playbook, ansible config, ansible blocks, ansible seriol, ansible forks
+ansible dynamic inventory
+
+
+Terraform or Cloudformation is MUST
+------------------
+terraform statefile, terraform plan,apply ..so on
+terraform remove add resouce how to
+terraform import 
+
+K8s
+--------------------
+k8s architecture, pv,pvc , role , rolebinding, security, pods , deployments, deameonset, statefulsets
+pod affinity, node upgrades,liveness probe , readyness probe .. so on
+
+Linux
+-----------------
+load avg,slow issue, filesystem full, user administration, fs management
+security, package management
+patching,kernel upgrades and so on
+
+
+Scripting( Shell or Python)
+------------------
+functions,forloop,whileloop,variables,if else
+
+
+Build tools(Maven)
+-------------
+how many stages in maven builds, how to see logs, how to deploy , commands
