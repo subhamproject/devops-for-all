@@ -45,3 +45,38 @@ instance is created. Why is this happening?
 * What are the general possible connection issues one might face while connecting to your EC2 instance?
 * How can I prevent my EBS volumes from being deleted when I terminate my EC2 instances?
 * Explain Storageclass, stateful/stateless? Did you implement any of this in realtime. Share an example?
+---------------------------------------------------
+What are different types of instances you use.
+What is NAT gateway
+What are security groups and NACLS
+How to copy one EBS volume to other aws region?
+How to know which type of instance you want to use for a particular application/service?
+What is AWS AMI?
+What is purpose of static IP?
+What is Internet Gateway?
+What is transit gateway
+How do you provide internet to private subnet
+How to secure Domain using ACM
+How do you whitelist the ip ranage of clients in Load balancer
+What is launch configuration
+What is auto scaling
+what are CloudWatch event rules
+What is CloudWatch log streams
+AWS OpenSearch?
+IAM roles and permissions?
+How to upgrade EBS volume?
+How to generate SSL certificate in ACM?
+What are different routing policies in Route 53
+How to create domain and route traffic to LB
+How to host static website using S3
+How to copy files in EC2 to s3 using AWS CLI?
+Different storage classes in AWS S3.
+What is AWS Lambda and how do you use it in your project?
+How do you push your logs stream data to Elastic search
+How to use single load balancer for multiple sites?
+AWS ECR and ECS?
+ECS Task definition and service
+How do you configure RDS in AWS?
+How do maintain RDS replica?
+What is AWS Virtual Private Gateway
+
