@@ -5,3 +5,13 @@ Difference between service and ingress in kubernetes?
 How a load balancer knows which pods to direct traffic to?
 How do you implement security in Kubernetes?
 How do you integrate on-premises kubernetes with Cloud managed services?
+what k8s archtecture and explain each component?
+what is Kube API server 
+what are different services
+Taints and tollarents
+Name different probes and explain them.
+What is use of Helm charts?
+What is name spaces?
+How do you do deployment in K8s?
+How do you maintain required number of pods in a service?
+How do you distribute the pods across differnt nodes based on AZ.
