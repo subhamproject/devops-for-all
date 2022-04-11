@@ -1,3 +1,16 @@
-Explain CI/CD process?
-How do you backup Jenkins?
-How do you setup a new Jenkins server?
+what is the version of Jenkins you are using ?
+list the plugins?
+how do you take backup of your Jenkins?
+How do you integrate maven with Jenkins?
+How to you configure master and slave?
+List different build triggers in Jenkins?
+List different pipeline’s?
+How do you use passwords and sensitive users ID’s/passwords?
+Explain the different stages of your pipeline?
+How do you provide RBAC in Jenkins?
+How to schedule periodic build triggers?
+How to upgrade Jenkins?
+How to detect passwords in codes during build?
+what are recent Jenkins build failure that you have worked on?
+what is CI/CD
+
